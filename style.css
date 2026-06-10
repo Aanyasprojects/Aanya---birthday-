@@ -7,5 +7,18 @@ input,button{padding:12px 18px;border-radius:12px;border:1px solid #ddd}
 button{cursor:pointer;background:#F8D7E8}
 .hero{background:linear-gradient(#FFF8FB,#F8D7E8)}
 .gallery{display:flex;gap:20px;flex-wrap:wrap;justify-content:center}
-.photo,.gift{background:white;border-radius:18px;padding:40px;min-width:150px;box-shadow:0 4px 12px rgba(0,0,0,.08)}
+.photo{
+width:250px;
+height:auto;
+border-radius:18px;
+box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+.gift{
+background:white;
+border-radius:18px;
+padding:40px;
+min-width:150px;
+box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
 .secret{background:#fff}

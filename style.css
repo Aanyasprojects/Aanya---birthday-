@@ -45,3 +45,8 @@ min-width:150px;
 box-shadow:0 4px 12px rgba(0,0,0,.08);
 }
 .secret{background:#fff}
+.card p{
+font-size:1.1rem;
+line-height:1.8;
+font-style:italic;
+}

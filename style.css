@@ -59,3 +59,11 @@ box-shadow:0 8px 20px rgba(0,0,0,.12);
 transform:rotate(-2deg);
 font-style:italic;
 }
+audio{
+width:100%;
+margin-top:10px;
+}
+
+.section .card{
+margin:15px;
+}

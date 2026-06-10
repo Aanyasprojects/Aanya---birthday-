@@ -21,8 +21,21 @@ background:white;
 padding:12px;
 border-radius:12px;
 box-shadow:0 8px 20px rgba(0,0,0,.12);
-transform:rotate(-2deg);
+transition:0.3s;
 }
+
+.photo:nth-child(odd){
+transform:rotate(-3deg);
+}
+
+.photo:nth-child(even){
+transform:rotate(3deg);
+}
+
+.photo:hover{
+transform:scale(1.05);
+}
+
 
 .gift{
 background:white;

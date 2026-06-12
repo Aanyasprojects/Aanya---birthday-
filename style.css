@@ -94,22 +94,4 @@ list-style:none;
 summary::-webkit-details-marker{
 display:none;
 }
-.gift{
-background:white;
-border-radius:18px;
-padding:20px;
-margin:12px 0;
-width:100%;
-max-width:700px;
-box-shadow:0 4px 12px rgba(0,0,0,.08);
-}
 
-summary{
-cursor:pointer;
-font-weight:600;
-list-style:none;
-}
-
-summary::-webkit-details-marker{
-display:none;
-}
